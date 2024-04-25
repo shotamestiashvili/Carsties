@@ -1,4 +1,5 @@
 using AuctionService.Data;
+using AuctionService.DTOs;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
